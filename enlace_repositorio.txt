@@ -2,6 +2,4 @@ Evidencia: GA7-220501096-AA2-EV02
 Aprendiz: Luis Miguel Murillo
 
 Enlace del repositorio remoto:
-https://github.com/TU-USUARIO/planpet-aa2-ev02-servlets-jsp
-
-NOTA: reemplace por el repositorio real donde subió este proyecto.
+https://github.com/luismy852/GA7-220501096-AA2-EV02
